@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - pip=20.3.3
+  - python=3.8
+  - pandas=1.2.3
   - pip:
       - wandb==0.13.9
-      - protobuf==3.20.*
